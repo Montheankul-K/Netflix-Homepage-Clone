@@ -1,0 +1,2 @@
+tmdb_api_key = 14d91d4150bcad3e6cd70c447ac66842
+netflix-clone-79caf.web.app
